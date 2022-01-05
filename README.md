@@ -14,7 +14,7 @@ Note: This may not be necessary with the ```chmod u+x``` in each file.
 ```
 2. Enter the chmod command. For example:
 ```
-% chmod 755 YourScriptName.sh
+% chmod u+x YourScriptName.sh
 ```
 3. After making the shell script file executable, you can run it by entering its pathname. For example:
 

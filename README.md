@@ -11,7 +11,7 @@ Shell scripts must be executable files in order to run. You can use the chmod co
 ```
 % cd YourScriptDirectory
 ```
-2. Enter the chmod command. For example:
+2. Enter the `chmod` command. For example:
 ```
 % chmod u+x YourScriptName.sh
 ```

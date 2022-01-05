@@ -1,3 +1,4 @@
+chmod u+x
 while :
 do
 git push

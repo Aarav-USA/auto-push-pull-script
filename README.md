@@ -31,4 +31,4 @@ or
 1. Download the [push](https://github.com/Aarav-Batra/auto-push-pull-script/blob/main/Windows_push.bat) or [pull](https://github.com/Aarav-Batra/auto-push-pull-script/blob/main/Windows_pull.bat) file.
 2. Double click the file when it has finished downloading, and it will run automatically.
 
-Made with ❤️ by [Aarav Batra](https://github.com/Aarav-USA)
+Made with ❤️ by [Aarav-USA](https://github.com/Aarav-USA)

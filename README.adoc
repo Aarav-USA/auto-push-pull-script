@@ -27,9 +27,9 @@ or
 % ./YourScriptName.sh
 ----
 
+:url-windows: https://www.windowscentral.com/how-create-and-run-batch-file-windows-10
 == {url-windows}[How to Run Terminal Files in Windows]
 // Refs:
-:url-windows: https://www.windowscentral.com/how-create-and-run-batch-file-windows-10
 :url-push: https://github.com/Aarav-Batra/auto-push-pull-script/blob/main/Windows_push.bat
 :url-pull: https://github.com/Aarav-Batra/auto-push-pull-script/blob/main/Windows_pull.bat
 

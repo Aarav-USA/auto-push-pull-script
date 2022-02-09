@@ -20,9 +20,8 @@ Shell scripts must be executable files in order to run. You can use the chmod co
 ----
 % chmod u+x YourScriptName.sh
 ----
-
-3. After making the shell script file executable, you can run it by entering its pathname. For example:
 +
+3. After making the shell script file executable, you can run it by entering its pathname. For example:
 ----
 % ~/Documents/Dev/YourScriptName.sh
 ----

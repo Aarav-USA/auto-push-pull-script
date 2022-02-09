@@ -44,6 +44,6 @@ or
 
 == Authors
 // Refs:
-:url-aarav:
+:url-aarav: https://github.com/Aarav-USA
 
 Made with ❤️ by {url-aarav}[Aarav-USA]
